@@ -17,7 +17,7 @@ This IoT-based agriculture monitoring system allows farmers to:
 
 ## Components
 - **NodeMCU (ESP8266)**
-- - **Arduino**
+- **Arduino**
 - **Soil Moisture Sensor**
 - **Humidity and Temperature Sensor (DHT11/DHT22)**
 - **Water Level Sensor**
