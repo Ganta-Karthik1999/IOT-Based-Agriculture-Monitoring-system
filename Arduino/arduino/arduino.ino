@@ -2,14 +2,14 @@
 #include "DHT.h"
 
 #define DHTPIN 4 // Digital pin connected to the DHT sensor
-
+#define LEDpin 7
+#define obstaclePin A0
 #define DHTTYPE DHT11 // DHT 11
+#define waterpin
 
 DHT dht(DHTPIN, DHTTYPE);
-int LEDpin = 7;
-int obstaclePin = A0;
 int hasObstacle = LOW; // LOW MEANS NO OBSTACLE
-int waterpin = 3;
+
 void setup()
 {
   Serial.begin(9600);
@@ -23,11 +23,13 @@ void setup()
 
 void loop()
 {
-
+  // Obstrical pin will check if the obstrical exist or not
   hasObstacle = digitalRead(obstaclePin);
 
+  // The Water pin will send the analog value via the analog pins
   int waterobs = analogRead(waterpin);
 
+  //
   if (hasObstacle == LOW)
   {
     Serial.print("1");
@@ -38,7 +40,7 @@ void loop()
     Serial.print("2");
     digitalWrite(LEDpin, LOW);
   }
-  if (waterobs == HIGH)
+  else if (waterobs == HIGH)
   {
 
     Serial.print("3");
