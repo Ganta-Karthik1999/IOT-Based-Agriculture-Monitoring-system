@@ -26,8 +26,8 @@ This IoT-based agriculture monitoring system allows farmers to:
 ## Videos
 above are the videos demonstrating the project:
 
--Video 1: [Link to the Project video ](https://drive.google.com/file/d/1sgBcxOXVZn0a57hnXZkRsSsgLV7BCYdG/view?usp=drive_link) 
--Video 2: [Link to Project video ](https://drive.google.com/file/d/1R3Rlcp5IZ9eQv1SzP0DBATSaWJCk_339/view?usp=drive_link) 
+-Video 1: [Link to the Project video ](https://drive.google.com/file/d/1CVZsW762TvaDzSrxwjRH8RlJ71gbA3Ju/view?usp=sharing) 
+-Video 2: [Link to Project video ](https://drive.google.com/file/d/1NYSDULTSE9z-CgZLZ-26u0jvAZYNbWqh/view?usp=sharing) 
 
 ## Contact
 For any inquiries or questions, please contact:
