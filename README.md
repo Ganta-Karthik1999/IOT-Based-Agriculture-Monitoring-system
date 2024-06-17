@@ -25,7 +25,8 @@ This IoT-based agriculture monitoring system allows farmers to:
 
 ## Videos
 above are the videos demonstrating the project:
-
+[Link to the Project video ](https://drive.google.com/file/d/1sgBcxOXVZn0a57hnXZkRsSsgLV7BCYdG/view?usp=drive_link) 
+[Link to Bomb Disposal Robot Project ](https://drive.google.com/file/d/1R3Rlcp5IZ9eQv1SzP0DBATSaWJCk_339/view?usp=drive_link) 
 
 ## Contact
 For any inquiries or questions, please contact:
