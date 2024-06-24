@@ -38,12 +38,12 @@ This IoT-based agriculture monitoring system allows farmers to:
 ![Train Image 2](https://drive.google.com/uc?id=1mSnT48SSiJFtpZJ6Tn69GGLHYghpDIn1)
 
 ## Testing Images
-![Test Image 1](https://drive.google.com/uc?id=1GTwGeOAivOTsde_4tHqpqj8A7si4-3t6) ![Test Image 2](https://drive.google.com/uc?id=1mSnT48SSiJFtpZJ6Tn69GGLHYghpDIn1)
-![Test Image 1](https://drive.google.com/uc?id=1_iHUMszm0doyuQ5rGuAG8nvS_irnCu04) ![Test Image 2](https://drive.google.com/uc?id=1mSnT48SSiJFtpZJ6Tn69GGLHYghpDIn1)
-![Test Image 1](https://drive.google.com/uc?id=1h-fvP7voM3HqUKbLOzPBejQk23cVu-gO) ![Test Image 2](https://drive.google.com/uc?id=1mSnT48SSiJFtpZJ6Tn69GGLHYghpDIn1)
-![Test Image 1](https://drive.google.com/uc?id=1jN8djieeAfJhX0-Oh88ljD6v-SRrg6rL) ![Test Image 2](https://drive.google.com/uc?id=1mSnT48SSiJFtpZJ6Tn69GGLHYghpDIn1)
-![Test Image 1](https://drive.google.com/uc?id=1GTwGeOAivOTsde_4tHqpqj8A7si4-3t6) ![Test Image 2](https://drive.google.com/uc?id=1mSnT48SSiJFtpZJ6Tn69GGLHYghpDIn1)
-![Test Image 1](https://drive.google.com/uc?id=1vrJfoubLu5Gmv0Ogu2Ky1Skiwd78I5Jp) ![Test Image 2](https://drive.google.com/uc?id=1mSnT48SSiJFtpZJ6Tn69GGLHYghpDIn1)
+![Test Image 1](https://drive.google.com/uc?id=1GTwGeOAivOTsde_4tHqpqj8A7si4-3t6)
+![Test Image 1](https://drive.google.com/uc?id=1_iHUMszm0doyuQ5rGuAG8nvS_irnCu04)
+![Test Image 1](https://drive.google.com/uc?id=1h-fvP7voM3HqUKbLOzPBejQk23cVu-gO)
+![Test Image 1](https://drive.google.com/uc?id=1jN8djieeAfJhX0-Oh88ljD6v-SRrg6rL) 
+![Test Image 1](https://drive.google.com/uc?id=1GTwGeOAivOTsde_4tHqpqj8A7si4-3t6) 
+![Test Image 1](https://drive.google.com/uc?id=1vrJfoubLu5Gmv0Ogu2Ky1Skiwd78I5Jp) 
 
 ## Videos
 The above are the videos of the earlier version of the project 
