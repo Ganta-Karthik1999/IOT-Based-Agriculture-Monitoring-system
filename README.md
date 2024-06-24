@@ -34,12 +34,15 @@ This IoT-based agriculture monitoring system allows farmers to:
   - We have integrated an OpenCV code running on a Raspberry Pi to detect soil moisture levels based on the color of the soil. The system classifies soil as dry or wet and updates this data in real-time to enhance the overall monitoring capabilities.
   - The detected soil moisture levels are visualized on the user-friendly dashboard, providing a more comprehensive understanding of field conditions.
 ## Training Images
+-The beloe are the test images used for Training the model.
+
 ![Train Image 1](https://drive.google.com/uc?id=1so0SUOcEQAiTMugqzvlKehHNdd_XMYTG)
 
 ![Train Image 2](https://drive.google.com/uc?id=1mSnT48SSiJFtpZJ6Tn69GGLHYghpDIn1)
 
 ## Testing Images
 
+The below are the output of the soil moisture prediction.
 
 ![Test Image 1](https://drive.google.com/uc?id=1GTwGeOAivOTsde_4tHqpqj8A7si4-3t6)
 
