@@ -36,8 +36,10 @@ This IoT-based agriculture monitoring system allows farmers to:
 ## Training Images
 -The beloe are the test images used for Training the model.
 
+-Dry Soil
 ![Train Image 1](https://drive.google.com/uc?id=1so0SUOcEQAiTMugqzvlKehHNdd_XMYTG)
 
+- Wet Soil
 ![Train Image 2](https://drive.google.com/uc?id=1mSnT48SSiJFtpZJ6Tn69GGLHYghpDIn1)
 
 ## Testing Images
