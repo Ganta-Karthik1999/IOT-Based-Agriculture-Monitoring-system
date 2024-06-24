@@ -2,8 +2,8 @@ import cv2
 import numpy as np
 
 # Load the reference images
-image1 = cv2.imread(r'D:\GitHub Repository\IOT-Based-Agriculture-Monitoring-system\Resources\Soil1.jpg')  # Dry soil (light brown)
-image2 = cv2.imread(r'D:\GitHub Repository\IOT-Based-Agriculture-Monitoring-system\Resources\Soil2.jpg')  # Wet soil (dark brown)
+image1 = cv2.imread(r'.\openCV\Soil1.jpg')  # Dry soil (light brown)
+image2 = cv2.imread(r'.\openCV\Soil2.jpg')  # Wet soil (dark brown)
 
 # Convert reference images to HSV color space
 hsv_image1 = cv2.cvtColor(image1, cv2.COLOR_BGR2HSV)
@@ -56,11 +56,11 @@ def process_images(image_paths):
 
 # Example usage with six specific image files
 image_paths = [
-    r'D:\GitHub Repository\IOT-Based-Agriculture-Monitoring-system\Resources\Test\test2_dry.jpg',
-    r'D:\GitHub Repository\IOT-Based-Agriculture-Monitoring-system\Resources\Test\test1_dry.jpg',
-    r'D:\GitHub Repository\IOT-Based-Agriculture-Monitoring-system\Resources\Test\test3_dry.jpg',
-    r'D:\GitHub Repository\IOT-Based-Agriculture-Monitoring-system\Resources\Test\test2_wet.jpg',
-    r'D:\GitHub Repository\IOT-Based-Agriculture-Monitoring-system\Resources\Test\test3_wet.jpg'
+    r'.\openCV\Test\test1_dry.jpg',
+    r'.\openCV\Test\test2_dry.jpg',
+    r'.\openCV\Test\test3_dry.jpg',
+    r'.\openCV\Test\test2_wet.jpg',
+    r'.\openCV\Test\test3_wet.jpg',
 ]
 
 process_images(image_paths)
