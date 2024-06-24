@@ -35,9 +35,12 @@ This IoT-based agriculture monitoring system allows farmers to:
   - The detected soil moisture levels are visualized on the user-friendly dashboard, providing a more comprehensive understanding of field conditions.
 ## Training Images
 ![Train Image 1](https://drive.google.com/uc?id=1so0SUOcEQAiTMugqzvlKehHNdd_XMYTG)
+</br>
 ![Train Image 2](https://drive.google.com/uc?id=1mSnT48SSiJFtpZJ6Tn69GGLHYghpDIn1)
 
 ## Testing Images
+
+
 ![Test Image 1](https://drive.google.com/uc?id=1GTwGeOAivOTsde_4tHqpqj8A7si4-3t6)
 ![Test Image 1](https://drive.google.com/uc?id=1_iHUMszm0doyuQ5rGuAG8nvS_irnCu04)
 ![Test Image 1](https://drive.google.com/uc?id=1h-fvP7voM3HqUKbLOzPBejQk23cVu-gO)
