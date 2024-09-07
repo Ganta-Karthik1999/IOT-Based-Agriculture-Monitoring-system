@@ -9,33 +9,37 @@ This project involves developing an IoT-based agriculture monitoring system that
 ## Introduction
 This IoT-based agriculture monitoring system allows farmers to:
 - Monitor soil moisture levels
-- Track humidity and temperature
-- Detect water levels
-- View data in real-time on a cloud platform
+- Track humidity, temperature, and pH levels
+- Detect dry and wet land through camera-based detection
+- Map real-time field data onto a dashboard using the Qt framework
 
 ## Features
 - Real-time data monitoring
+- Autonomous robot navigation through the farm
+- Soil moisture detection using computer vision and mapping via Qt
 - Remote access to sensor data
 - Alerts and notifications for critical conditions
 - User-friendly dashboard for data visualization
--  Enhanced soil moisture detection using computer vision
 
 ## Components
-- **NodeMCU (ESP8266)**
+- **Raspberry Pi (running FreeRTOS for robot navigation and device drivers)*
 - **Arduino**
 - **Soil Moisture Sensor**
 - **Humidity and Temperature Sensor (DHT11/DHT22)**
 - **Water Level Sensor**
 - **Blynk App**
-- **Raspberry Pi (for running OpenCV code)**
+- **Camera Module (for computer vision)**
 
 ## Enhanced Functionality (New Integration)
 - **Computer Vision-Based Soil Moisture Detection:** 
-  - We have integrated an OpenCV code running on a Raspberry Pi to detect soil moisture levels based on the color of the soil. The system classifies soil as dry or wet and updates this data in real-time to enhance the overall monitoring capabilities.
-  - The detected soil moisture levels are visualized on the user-friendly dashboard, providing a more comprehensive understanding of field conditions.
+  - The project now integrates a computer vision model running on a Raspberry Pi to detect soil moisture levels based on the color of the soil. A camera module attached to the robot captures images, and the system classifies soil as dry or wet in real-time.
+  - The detected moisture levels are displayed on a Qt-based dashboard, with different colors representing dry and wet areas. The robot autonomously maps this data as it navigates the farm.
+  
+- **Data from Sensors:** In addition to soil moisture detection, the system collects humidity, temperature, and pH levels from various sensors. All data is sent to a server for further analysis and is available in real-time on the dashboard.
+
+
 ## Training Images
 -The beloe are the test images used for Training the model.
-
 
 ![Train Image 1](https://drive.google.com/uc?id=1so0SUOcEQAiTMugqzvlKehHNdd_XMYTG)
 
