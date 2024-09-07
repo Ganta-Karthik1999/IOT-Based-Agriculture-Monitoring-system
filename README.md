@@ -22,7 +22,7 @@ This IoT-based agriculture monitoring system allows farmers to:
 - User-friendly dashboard for data visualization
 
 ## Components
-- **Raspberry Pi (running FreeRTOS for robot navigation and device drivers)*
+- **Raspberry Pi (running FreeRTOS for robot navigation and device drivers)**
 - **Arduino**
 - **Soil Moisture Sensor**
 - **Humidity and Temperature Sensor (DHT11/DHT22)**
